@@ -2,6 +2,18 @@
 
 ---
 
+#link projeto:
+
+## https://wokwi.com/projects/441626798908635137
+
+---
+
+#link video:
+
+##https://youtu.be/YJUlmUknEwM
+
+---
+
 # 🏐 Contador de Passes – ESP32 + LCD + LEDs + MQTT
 
 ## Descrição do Projeto
